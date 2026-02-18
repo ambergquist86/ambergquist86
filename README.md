@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I began studying Software Development in the last couple of years and have an introductory education in HTML, CSS, JavaScript, PHP, MySQL, Raptor (algorithm and flowchart creation), cyber security, general informatics, computing logic, as well as disassembling, maintaining, and assembling computers.
+
+I moved to Georgia in 2022 and when I became an in-state resident, I enrolled at a technical college with the intention of completing my diploma in Web Application Development. I am hard-working, eager to learn more in my field and looking forward to becoming a valued teammate in my future place of employment.
+
 <!--
 **ambergquist86/ambergquist86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
