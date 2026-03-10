@@ -7,8 +7,11 @@ I moved to Georgia in 2022 and when I became an in-state resident, I enrolled at
 Key Repositories:
 
 [Personal Website](https://github.com/ambergquist86/personal_website)
+
 [Camper's Unite](https://github.com/ambergquist86/campers_unite)
+
 [Conference Rooms](https://github.com/ambergquist86/conference_rooms)
+
 [Classroom Project](https://github.com/ambergquist86/classroom_project)
 
 <!--
