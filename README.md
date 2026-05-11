@@ -14,6 +14,8 @@ Key Repositories:
 
 [Classroom Project](https://github.com/ambergquist86/classroom_project)
 
+[Help Desk Project](https://github.com/ambergquist86/helpDesk)
+
 <!--
 **ambergquist86/ambergquist86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
